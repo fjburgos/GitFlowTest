@@ -16,7 +16,7 @@
  *
  *************************************************************************/
 
-private final static name = "John";
+private final static String name = "John";
 
 public class HelloWorld {
 
